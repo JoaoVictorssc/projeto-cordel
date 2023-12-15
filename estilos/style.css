@@ -15,8 +15,9 @@
 
 html,body{
     background-color: darkgray;
-    min-height: 100vh;
+    height: 100vh;
     font-family: var(--fonte-padrao);
+    width: 100vw;
 }
 
 header{
